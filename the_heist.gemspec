@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.version           = Heist::Version
   s.date              = Time.now.strftime('%Y-%m-%d')
   s.summary           = "Heist allows you to clone gem configs."
-  s.homepage          = "http://github.com/jcsalterego/heist"
+  s.homepage          = "http://github.com/jcsalterego/the_heist"
   s.email             = "jerry@apache.org"
   s.authors           = [ "Jerry Chen" ]
 

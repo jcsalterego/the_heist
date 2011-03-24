@@ -2,7 +2,7 @@ $LOAD_PATH.unshift 'lib'
 require 'heist/version'
 
 Gem::Specification.new do |s|
-  s.name              = "heist"
+  s.name              = "the_heist"
   s.version           = Heist::Version
   s.date              = Time.now.strftime('%Y-%m-%d')
   s.summary           = "Heist allows you to clone gem configs."

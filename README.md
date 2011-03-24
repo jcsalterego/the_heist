@@ -1,9 +1,18 @@
 
-Heist
-=====
+The Heist
+=========
 
 Take the output of `gem list` and generate installation commands.
 
+What Kind of Gem Includes A Definitive Article?
+===============================================
+
+But the gem name `heist` was already taken!
+
+Installation
+============
+
+    $ gem install the_heist
 
 Usage
 =====
@@ -38,4 +47,4 @@ Coughing, wheezing, sneezing, itching, runny nose, loss of appetite, dabbling in
 
 Suppresses ri/rdoc by default.
 
-Likely due to dependencies, more gem versions will be installed than the designated versions.
+It is likely that gem dependencies will lop on more gem versions than the explicitly designated ones.

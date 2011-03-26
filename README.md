@@ -47,4 +47,4 @@ Coughing, wheezing, sneezing, itching, runny nose, loss of appetite, dabbling in
 
 Suppresses ri/rdoc by default.
 
-It is likely that gem dependencies will lop on more gem versions than the explicitly designated ones.
+It is likely that gem dependencies will pile on more gem versions than the explicitly designated ones.

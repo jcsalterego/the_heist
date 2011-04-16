@@ -26,6 +26,10 @@ module Heist
           gem, versions = match
           versions = versions.split(/, /)
 
+          if ARGV[0] == "--recent"
+            versions = versions.first
+          end
+
           versions.reverse.each do |version|
             output << ("gem install #{gem}" +
                        " --version=#{version}" +

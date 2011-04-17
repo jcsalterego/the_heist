@@ -29,7 +29,7 @@ module Heist
           # at some point, abstract this to a config/settings
           # module elsewhere...
           if ARGV.include?('--recent')
-            versions = versions.first
+            versions = versions.first.to_a
           end
           # </lazy>
 

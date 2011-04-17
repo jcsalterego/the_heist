@@ -4,7 +4,7 @@
 
 module Heist
 
-  GEM_RE = /^([^ ]+) \(([0-9\., ]+)\)/
+  GEM_RE = /^([^ ]+) \(([0-9a-z\., ]+)\)/
 
   class << self
     def usage

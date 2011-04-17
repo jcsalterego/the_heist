@@ -14,6 +14,8 @@ Gem::Specification.new do |s|
   s.files            += Dir.glob("lib/**/*")
   s.executables       = [ 'heist' ]
 
+  s.test_files        = Dir.glob("tests/*")
+
   s.extra_rdoc_files  = [ "LICENSE", "README.md" ]
 
   s.description = <<-description

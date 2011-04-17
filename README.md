@@ -39,7 +39,7 @@ Optionally, you can pull off the heist with only the newest version of each gem 
 
     $ gem list | heist --recent
     gem install redis --version=2.0.6 --no-ri --no-rdoc
-    gem install redis-namespace --version=0.8.0 --no-ri --no-rdoc  
+    gem install redis-namespace --version=0.8.0 --no-ri --no-rdoc
 
 Apologies
 =========
